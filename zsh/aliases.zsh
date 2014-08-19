@@ -167,3 +167,5 @@ alias dbm='spring rake db:migrate'
 alias dbmr='spring rake db:migrate:redo'
 alias dbmd='spring rake db:migrate:down'
 alias dbmu='spring rake db:migrate:up'
+# adding android tools export path
+source $HOME/.zsh.after/alias.zsh
